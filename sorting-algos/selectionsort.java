@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class selectionsort {
+public class Selectionsort {
 
 
     public static void main(String[] args) {
